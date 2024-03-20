@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "hotelName": "Trident Bandra Kurla",
+      "img": "https://media.istockphoto.com/id/537385167/photo/the-luxury-villa-in-thai-style-hotel-on-palm-jumeirah.jpg?s=612x612&w=0&k=20&c=2HbiF8n7O2YYTMe6RozpyDb0hqZLJW8fXmmoNyx8YsM=",
+      "address": "Mumbai",
+      "price": "₹ 229,680",
+      "availability": 0,
+      "rating": 2,
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    },
+    {
+      "id": "2",
+      "hotelName": "Taj Santacruz",
+      "img": "https://media.istockphoto.com/id/1306628551/photo/luxury-resort-poolside.jpg?s=612x612&w=0&k=20&c=VGKBbBkLCJ3oDF4wVVMlQOMF1LIhuWqUL0YFT2HBd-A=",
+      "address": "Mumbai",
+      "price": "₹ 278,687",
+      "availability": 0,
+      "rating": 3,
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    },
+    {
+      "id": "3",
+      "hotelName": "Hotel Victory",
+      "img": "https://media.istockphoto.com/id/172515976/photo/luxury-hotel-pool.jpg?s=612x612&w=0&k=20&c=UD2y8-EVEf-L_AbRcmskrhteDqVrc2jBBZ6WXhCzhH0=",
+      "address": "Shimla",
+      "price": "₹ 129,600",
+      "availability": -10,
+      "rating": 4,
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    },
+    {
+      "id": "4",
+      "hotelName": "Indu BNB Shimla",
+      "img": "https://media.istockphoto.com/id/1061429904/photo/night-wide-angle-view-of-wynn-macau-a-famous-luxury-hotel-and-casino.jpg?s=612x612&w=0&k=20&c=GbQH3fUDsIj6WU0jsneer3lsnqY8HC2CdE2HTp2l2Ck=",
+      "address": "Shimla",
+      "price": "₹ 159,044",
+      "availability": 5,
+      "rating": 3,
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    },
+    {
+      "id": "5",
+      "hotelName": "Taj The Trees, Mumbai",
+      "img": "https://media.istockphoto.com/id/1134682162/photo/the-jumeirah-beach-hotel-in-jumeirah-on-the-coast-of-the-persian-gulf.jpg?s=612x612&w=0&k=20&c=BtA71aEO1418LmXS5r92_COp7I2WjOCf6HTBteENFmE=",
+      "address": "Mumbai",
+      "price": "₹ 204,345",
+      "availability": 3,
+      "rating": 3,
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    },
+    {
+      "id": "6",
+      "hotelName": "Sofitel Mumbai BKC",
+      "img": "https://media.istockphoto.com/id/1159873271/photo/residential-area-in-the-city-modern-apartment-buildings.jpg?s=612x612&w=0&k=20&c=edI11N5XbGUx26oYlpMPRipqjNM86aiEpCM1PfuypPw=",
+      "address": "Mumbai",
+      "price": "₹ 145,960",
+      "availability": 6,
+      "rating": 3,
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    },
+    {
+      "id": "7",
+      "hotelName": "Radisson Mumbai Goregaon",
+      "img": "https://media.istockphoto.com/id/1306005855/photo/modern-israeli-architecture.jpg?s=612x612&w=0&k=20&c=tIIdpjj9GeB4GeTnlNYxnIbC0_0c23GQRWcFVyVXgNM=",
+      "address": "Mumbai",
+      "price": "₹ 63,617",
+      "availability": 3,
+      "rating": 3,
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    },
+    {
+      "id": "8",
+      "hotelName": "The Westin Mumbai Garden City",
+      "img": "https://media.istockphoto.com/id/508093327/photo/chandrakasem-rajabhat-university.jpg?s=612x612&w=0&k=20&c=3pmgmJAfFauDxiH1VXwN67zhIfknPpUGEmF-Wo0Lb1M=",
+      "address": "Mumbai",
+      "price": "₹ 88,358",
+      "availability": 3,
+      "rating": 3,
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    },
+    {
+      "id": "9",
+      "hotelName": "The Oberoi Mumbai",
+      "img": "https://media.istockphoto.com/id/131395976/photo/swimming-pool.jpg?s=612x612&w=0&k=20&c=SWYmef9HYSPEB0hEQRk3qO_cz5ePymqOYjVnn60b4JA=",
+      "address": "Mumbai",
+      "price": "₹ 118,800",
+      "availability": 3,
+      "rating": 3,
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    },
+    {
+      "id": "10",
+      "hotelName": "Hotel Bawa International",
+      "img": "https://media.istockphoto.com/id/1162538065/photo/taj-lands-end-bandra-west-mumbai-maharashtra.jpg?s=612x612&w=0&k=20&c=jjZAEXKEmJeewe5B1xTvCFV3seet5EbFko2FO5TkhGM=",
+      "address": "Mumbai",
+      "price": "₹ 150,568",
+      "availability": 3,
+      "rating": 3,
+      "roomImg": [
+        "https://media.istockphoto.com/id/185086520/photo/luxury-hotel-room.jpg?s=612x612&w=0&k=20&c=aky5Tl_ShRmxJ1FMuuaVh8FvisggxyFiqdW4o7o8sPc=",
+        "https://media.istockphoto.com/id/1175759710/photo/sea-view-swimming-pool.jpg?s=612x612&w=0&k=20&c=weOXpzlBzJ19tsy8_OwtEePi5QMocfX1z7d0qub2b-c=",
+        "https://media.istockphoto.com/id/908258590/photo/3d-render-of-hotel-entrance-and-reception.jpg?s=612x612&w=0&k=20&c=E-NcryVNcGq-1uYsIkfTPNGxEgvzW5LBqd0daffLbZQ=",
+        "https://media.istockphoto.com/id/152173646/photo/gateway-to-spa.jpg?s=612x612&w=0&k=20&c=WgMGVYKwWD6SrPGAvOP9IzTXEmGjnrgFCMJqERT0Uqc="
+      ]
+    }
+  ]
+}
